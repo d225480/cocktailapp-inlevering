@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cocktailapp.Views.login">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Label FontSize="Large" Margin="0,40,0,0" Text="Cocktail app" 
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+            <StackLayout  Margin="0,40,0,0"  VerticalOptions="Center" HorizontalOptions="Center">
+                <Entry x:Name="username" Placeholder="Gebruikersnaam"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+
+                <Entry IsPassword="True" x:Name="password" Placeholder="Wachtwoord"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+
+
+                <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+                    <Button Text="Registreren"
+                        Clicked="registerbutton"/>
+                    <Button Text="Inloggen" Clicked="loginn"/>
+                </StackLayout>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cocktailapp.Views.main.detailpage">
+    <ContentPage.Content>
+        <ScrollView VerticalOptions="Fill">
+            <StackLayout>
+                <Label x:Name="cocktailname" Text=""
+                    VerticalOptions="Start" 
+                    HorizontalOptions="CenterAndExpand" />
+                    <Image x:Name="image" Source="level.jpg" HeightRequest="150"
+                       VerticalOptions="Center" 
+                    HorizontalOptions="CenterAndExpand" />
+                    <Label Text="Drink met mate!" HorizontalTextAlignment="Center" BackgroundColor="Red"  TextColor="Black"/>
+                    <Label x:Name="description" Text="Descriptie: " />
+                    <Label x:Name="alcohol" Text="Alcohol%: " />
+                <Label x:Name="glas" Text="Glazen: "/>
+                <Label x:Name="bereidingswijze" Text="Bereidingswijze: "/>
+                <Label x:Name="allergieen" Text="Als u dit product gekocht check goed of er geen allergiese producten zijn" />
+                <Button x:Name="favorites" Clicked="addfavorite" Text="Toevoegen aan favorieten" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

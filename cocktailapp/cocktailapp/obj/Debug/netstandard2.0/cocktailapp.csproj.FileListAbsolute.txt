@@ -1,0 +1,50 @@
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.deps.json
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.dll
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.pdb
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.csproj.CoreCompileInputs.cache
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.AssemblyInfoInputs.cache
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.AssemblyInfo.cs
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.dll
+c:\users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.pdb
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\login\login.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\AboutPage.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\cocktailsbeck.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\dashboard.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\achievements.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\category.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\eula.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\settings.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\detailpage.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\search.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\login\register.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\m-don\source\repos\cocktailapp\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.csprojAssemblyReference.cache
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.deps.json
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.dll
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\bin\Debug\netstandard2.0\cocktailapp.pdb
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.csprojAssemblyReference.cache
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\login\login.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\login\register.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\AboutPage.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\cocktailsbeck.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\dashboard.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\detailpage.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\main\search.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\achievements.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\category.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\eula.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\Views\settings\settings.xaml.g.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.csproj.CoreCompileInputs.cache
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.AssemblyInfoInputs.cache
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.AssemblyInfo.cs
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.dll
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp\obj\Debug\netstandard2.0\cocktailapp.pdb

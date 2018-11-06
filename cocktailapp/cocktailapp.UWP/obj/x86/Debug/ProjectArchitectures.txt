@@ -1,0 +1,1 @@
+C:\Users\m-don\source\repos\git\cocktailapp inlevering\cocktailapp\cocktailapp.UWP\cocktailapp.UWP.csproj;x86

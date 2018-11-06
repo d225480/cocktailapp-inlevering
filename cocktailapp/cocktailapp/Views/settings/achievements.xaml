@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:System="clr-namespace:System;assembly=netstandard"
+             x:Class="cocktailapp.Views.achievements">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary">#2196F3</Color>
+            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout   BackgroundColor="{StaticResource Accent}">
+            
+            <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+              
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80" />
+                 
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname"  FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+                   
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+                   
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80" />
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname"  FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80" />
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname"  FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80" />
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname"  FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+                <StackLayout>
+                    <Button  Text="achievmentname" FontSize="Micro" HeightRequest="80" WidthRequest="80"/>
+
+                </StackLayout>
+            </StackLayout>
+
+          
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

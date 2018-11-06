@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+             x:Class="cocktailapp.Views.cocktailsbeck">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Page Level Resources: Compatibile with Xamarin Live Player -->
+            <Color x:Key="Primary">#2196F3</Color>
+            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="LightTextColor">#999999</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        
+        <StackLayout  BackgroundColor="{StaticResource Accent}">
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    
+                    <Entry  x:Name="searchentry" Placeholder="Zoek naar cocktails"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+                    
+                    <Button Text="Zoek" Clicked="search"
+                        />
+                  
+                </StackLayout>
+                <Label Text="Suggesties"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                
+                    <StackLayout  Orientation="Horizontal" >
+                    <ScrollView Orientation="Horizontal">
+                        <StackLayout x:Name="suggestions"  VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+
+
+
+                        </StackLayout>
+                    </ScrollView>
+
+                  
+                
+
+
+
+                </StackLayout>
+                
+                <Label Text="Geschiedenis"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                <StackLayout  Orientation="Horizontal" >
+                    <ScrollView Orientation="Horizontal">
+                        <StackLayout x:Name="history"  VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+
+
+
+                        </StackLayout>
+                    </ScrollView>
+                </StackLayout>
+                <Label Text="Favorieten"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                <StackLayout  Orientation="Horizontal" >
+                    <ScrollView Orientation="Horizontal">
+                        <StackLayout x:Name="favorites"   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+                       
+                        
+                        </StackLayout>
+                    </ScrollView>
+                  </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
